@@ -1,8 +1,9 @@
 # -*- coding: utf-8 -*-
 """
-Spyder Editor
+Yang Xu
 
-This is a temporary script file.
+The method is adopted from 
+https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-016-3387-6
 """
 import os
 import sys
