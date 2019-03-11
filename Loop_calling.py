@@ -4,6 +4,8 @@
 Created on Mon Mar  4 17:01:53 2019
 
 @author: imxman
+The method is adopted and modified from
+https://www.sciencedirect.com/science/article/pii/S0092867414014974?via%3Dihub
 """
 
 #import re
