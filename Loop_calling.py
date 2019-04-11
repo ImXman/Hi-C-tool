@@ -26,7 +26,7 @@ hic = np.nan_to_num(hic)
 thresh = 4
 
 #strut = np.array([[0,1,0],[1,1,1],[0,1,0]])
-f = np.array((-1,0,1))
+f = np.array((-1,2,-1))
 
 hic = np.log(hic+1)
 #blur = gaussian_filter(hic, sigma=3,order=1)
